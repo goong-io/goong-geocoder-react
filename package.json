@@ -1,6 +1,6 @@
 {
   "name": "@goongmaps/goong-geocoder-react",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React wrapper for goong-geocoder for use with goong-map-react",
   "source": "src/index.js",
   "main": "dist/index.js",
@@ -31,7 +31,7 @@
     "react",
     "goong",
     "goongmaps",
-    "mapgl",    
+    "mapgl",
     "geocoder"
   ],
   "author": "Goong",
@@ -41,8 +41,8 @@
   },
   "homepage": "https://github.com/goong-io/goong-geocoder-react",
   "dependencies": {
-    "@goongmaps/goong-geocoder": "1.0.5",
-    "prop-types": "^15.7.2"    
+    "@goongmaps/goong-geocoder": "1.0.6",
+    "prop-types": "^15.7.2"
   },
   "peerDependencies": {
     "@goongmaps/goong-map-react": ">= 1.0.4"
