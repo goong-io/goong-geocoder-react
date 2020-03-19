@@ -125,4 +125,4 @@ export default Example
 
 ```
 
-![goong-geocoder-react example screenshot](reactgoong-geocoder-react-screenshot.png)
+![goong-geocoder-react example screenshot](goong-geocoder-react-screenshot.png)
