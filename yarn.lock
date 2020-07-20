@@ -792,10 +792,10 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@goongmaps/goong-geocoder@1.0.5":
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/@goongmaps/goong-geocoder/-/goong-geocoder-1.0.5.tgz#11cb419e0ab9157bd618c69d526c05652526a47d"
-  integrity sha512-bWQaG5CXdY4FOM8Rv/PHWcOBk68Efz6ODG0nJT3Mx8x40OsXia6FtyKNELneAhb6s3WBALEYrrsBS8EhmIUx2g==
+"@goongmaps/goong-geocoder@1.0.6":
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@goongmaps/goong-geocoder/-/goong-geocoder-1.0.6.tgz#14bf04bb6c8f398a1884cc828fb1aa6275bed6a5"
+  integrity sha512-FEBC9c7ISnZQgGtQqWqZMpQPKiGKZLdr6UkM9hc4TvuZ/0mjCPLMTE9INu/SxQWNIkDSCPSdmAYqSwwkjkLVHg==
   dependencies:
     "@goongmaps/goong-sdk" "^1.0.0"
     lodash.debounce "^4.0.6"
@@ -2916,9 +2916,9 @@ lodash.uniq@^4.5.0:
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
 lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
+  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
 
 log-symbols@^1.0.2:
   version "1.0.2"
